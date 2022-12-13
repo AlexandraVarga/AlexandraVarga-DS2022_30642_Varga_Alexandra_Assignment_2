@@ -1,4 +1,4 @@
-#  DS2022_30642_Varga_Alexandra_Assignment_1
+#  DS2022_30642_Varga_Alexandra_Assignment_2
 Conceptual architecture of the online platform.
 
 The main purpose to build this Application to :
